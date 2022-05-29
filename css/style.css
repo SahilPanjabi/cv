@@ -1,0 +1,37 @@
+body
+{
+    background-color:#A25B5B;
+}
+hr
+{
+    border-top-style: dotted;
+    border-top-color: grey;
+    border-top-width: 1px;
+    border-right-style: none;
+    border-bottom-style: none;
+    border-left-style: none;
+    width: 30%;
+}
+h1{
+    color: #14279B;
+}
+h3{
+    color: white;
+}
+h2{
+    color: white;
+}
+/***Class Selectors
+.a{
+    background-color: blue;
+}
+.dog{
+    background-color: brown;
+}
+*/
+/*ID selectors
+#Intro{
+    font:"Arial Black";
+    color: #14279B;
+}
+*/
